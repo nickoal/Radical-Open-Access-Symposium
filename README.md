@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Radical Open Access: Experiments in (Post-)Publishing Symposium
 
-You can use the [editor on GitHub](https://github.com/nickoal/Radical-Open-Access-Symposium/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Radical Open Access: Experiments in (Post-)Publishing Symposium will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on April 6th from 10:30am - 2pm. This event will be followed by a "Clinic for Open Source Arts," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from 2-4pm.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
+With the demise of traditional gatekeepers, we are witnessing the rapid rise of alternative modes of both scholarly publishing and distribution as well as the artistic exhibition of computer generated works of art in digital environments. The rise of open access and collaborative platforms are in fact blurring the distinctions between publishing as a significant force of cultural activity in both contemporary art and leading-edge academic venues.
 
-### Markdown
+In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Light refreshments and lunch will be provided. We look forward to seeing you there!
 
-```markdown
-Syntax highlighted code block
+The event is free and open to all, but registration is required. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [url: https://forms.gle/26c1SuDt1pBXwuQWA]. 
 
-# Header 1
-## Header 2
-### Header 3
+## Schedule
 
-- Bulleted
-- List
+- 10:30-11:00    Coffee and pastries
+- 11:00-12.30    Keynote session: Radical Open Access with Joanna Zylinska, Janneke Adema and Gary Hall
+- 12:30          Catered lunch available in back of room while...
+- 12:30-1:10     Davin Heckman and Talan Memmott
+- 1:10-1:50      Danny Snelson
+- 2:00-4:00      Clinic for Open Source Arts with Chris Coleman _(Norlin E206)_
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Speakers and Biographies
 
-[Link](url) and ![Image](src)
-```
+### Keynote
+**Joanna Zylinska**
+- Joanna Zylinska is a writer, lecturer, artist, curator, and – according to the ImageNet Roulette’s algorithm – a ‘mediatrix’. She is Professor of New Media and Communications and Co-Head of the Department of Media, Communications and Cultural Studies at Goldsmiths, University of London. The author of many books – including The End of Man: A Feminist Counterapocalypse (University of Minnesota Press, 2018), Nonhuman Photography (MIT Press, 2017) and Minimal Ethics for the Anthropocene (Open Humanities Press, 2014) – she is also involved in more experimental and collaborative publishing projects, such as Photomediations (Open Humanities Press, 2016). Her own art practice involves playing with different kinds of image-based media.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Gary Hall** 
+- Gary Hall is Professor of Media in the Faculty of Arts & Humanities at Coventry University, UK, where he co-directs the Centre for Postdigital Cultures, which brings together media theorists, practitioners, activists and artists. In 1999 he co-founded the critical theory journal Culture Machine, an early champion of open access in the humanities, while in 2006 he co-founded Open Humanities Press, the first open access publishing house explicitly dedicated to critical and cultural theory. Recent publications include The Inhumanist Manifesto (Techne Lab, 2017), Pirate Philosophy (MIT Press, 2016) and The Uberfication of the University (Minnesota UP, 2016). He is currently completing a monograph titled Liberalism Must Be Defeated for Joanna Zylinska’s new Media:Art:Write:Now series.
 
-### Jekyll Themes
+**Janneke Adema**
+- Janneka Adema is Assistant Professor at the Centre for Postdigital Cultures at Coventry University. In her research she explores the future of scholarly communications and experimental forms of knowledge production, where her work incorporates processual and performative publishing, radical open access, scholarly poethics, media studies, book history, cultural studies, and critical theory. She explores these issues in depth in her various publications, but also by supporting a variety of scholar-led, not-for-profit publishing projects, including the Radical Open Access Collective, Open Humanities Press, ScholarLed and Post Office Press (POP). She is also a Co-PI on the Community-Led Open Publication Infrastructures for Monographs (COPIM) project.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickoal/Radical-Open-Access-Symposium/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Clinic for Open Source Arts
+**Chris Coleman**
+- Chris Coleman was born in West Virginia and he received his MFA from SUNY Buffalo in New York. His work includes sculptures, videos, creative coding and interactive installations. Coleman has had his work in exhibitions and festivals in more than 25 countries including Brazil, Argentina, Singapore, Finland, the U.A.E., Italy, Germany, France, China, the UK, Latvia, and across North America. He currently resides in Denver, CO and is a Professor of Emergent Digital Practices and the Director of the Clinic for Open Source Arts at the University of Denver.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Speakers
+**Danny Snelson**
+-Danny Snelson is a writer, editor, and archivist working as an Assistant Professor in the Department of English at UCLA. His online editorial work can be found on PennSound, Eclipse, UbuWeb, and the EPC. He is the publisher of Edit Publications and founding editor of the Jacket2 Reissues project. His books include Apocalypse Reliquary: 1984-2000 (Monoskop, 2018), Radios (Make Now, 2016), EXE TXT (Gauss PDF, 2015), Epic Lyric Poem (Troll Thread, 2014), and Inventory Arousal with James Hoff (Bedford Press/Architectural Association, 2011). With Mashinka Firunts Hakopian and Avi Alpert, he performs as one-third of the academic performance group Research Service. He is currently developing a manuscript exploring online collections of art and letters entitled The Little Database: A Poetics of Formats. His work across media formats may be found at http://dss-edit.com 
+
+**Davin Heckman**
+- David Heckman writes about digital culture and electronic literature. He is on the board of the Electronic Literature Organization, Managing Director for the Consortium on Electronic Literature, and Professor of Mass Communication at Winona State University. For the past 20 years, he has been active in digital publishing, serving on the editorial boards of Rhizomes.net, Hyperrhiz, electronic book review, the Electronic Literature Directory, Digital Literary Studies, and the forthcoming Digital Review. More information on Davin can be found at: https://elmcip.net/person/davin-heckman
+
+**Talan Memmott**
+- Talan Memmott is a digital writer/artist/theorist. Memmott has taught and been a researcher in digital art, digital design, electronic writing, new media studies, and digital culture at University of California Santa Cruz; University of Bergen; Blekinge Institute of Technology in Karlskrona, Sweden;  California State University Monterey Bay; the Georgia Institute of Technology; University of Colorado Boulder; and the Rhode Island School of Design. He is currently Assistant Professor of Creative Digital Media at Winona State University. Memmott holds an MFA in Literary Arts/Electronic Writing from Brown University and a PhD in Interaction Design/Digital Rhetoric and Poetics from Malmö University.
+
+
+## Contact
+
+Questions? Email XX at XX[at]colorado.edu
