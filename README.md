@@ -9,7 +9,7 @@ The Radical Open Access: Experiments in (Post-)Publishing Symposium will take pl
 Light refreshments and lunch will be provided. We look forward to seeing you there!
 
 ## Registration
-The event is free and open to all, but registration is required. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [url:(https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
+The event is free and open to all, but registration is required. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
 
 
 # Schedule
