@@ -1,14 +1,16 @@
 # About the Symposium
 
-The Radical Open Access: Experiments in (Post-)Publishing Symposium will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on April 6th from 10:30am - 2pm. This event will be followed by a "Clinic for Open Source Arts," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from 2-4pm.
-
 With the demise of traditional gatekeepers, we are witnessing the rapid rise of alternative modes of both scholarly publishing and distribution as well as the artistic exhibition of computer generated works of art in digital environments. The rise of open access and collaborative platforms are in fact blurring the distinctions between publishing as a significant force of cultural activity in both contemporary art and leading-edge academic venues.
 
 In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art .
 
+The Radical Open Access: Experiments in (Post-)Publishing Symposium will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on April 6th from 10:30am - 2pm. This event will be followed by a "Clinic for Open Source Arts," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from 2-4pm. 
+
 Light refreshments and lunch will be provided. We look forward to seeing you there!
 
-The event is free and open to all, but registration is required. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [url: https://forms.gle/26c1SuDt1pBXwuQWA]. 
+## Registration
+The event is free and open to all, but registration is required. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [url:(https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
+
 
 # Schedule
 
@@ -45,6 +47,7 @@ The event is free and open to all, but registration is required. Register [here]
 
 **Talan Memmott**
 - Talan Memmott is a digital writer/artist/theorist. Memmott has taught and been a researcher in digital art, digital design, electronic writing, new media studies, and digital culture at University of California Santa Cruz; University of Bergen; Blekinge Institute of Technology in Karlskrona, Sweden;  California State University Monterey Bay; the Georgia Institute of Technology; University of Colorado Boulder; and the Rhode Island School of Design. He is currently Assistant Professor of Creative Digital Media at Winona State University. Memmott holds an MFA in Literary Arts/Electronic Writing from Brown University and a PhD in Interaction Design/Digital Rhetoric and Poetics from Malmö University.
+
 
 # Our sponsors at the University of Colorado Boulder
 - Center for Research Data & Digital Scholarship
