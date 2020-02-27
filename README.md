@@ -1,5 +1,4 @@
 # Radical Open Access: Experiments in (Post-)Publishing Symposium
-
 With the demise of traditional gatekeepers, we are witnessing the rapid rise of alternative modes of both scholarly publishing and distribution as well as the artistic exhibition of computer generated works of art in digital environments. The rise of open access and collaborative platforms are in fact blurring the distinctions between publishing as a significant force of cultural activity in both contemporary art and leading-edge academic venues.
 
 In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art .
@@ -13,7 +12,6 @@ The event is free and open to all, but registration is required. Register [here]
 
 
 # Schedule
-
 - 10:30-11:00    Coffee and pastries
 - 11:00-12.30    Keynote session: Radical Open Access with Joanna Zylinska, Janneke Adema and Gary Hall
 - 12:30          Catered lunch available in back of room while...
@@ -23,7 +21,6 @@ The event is free and open to all, but registration is required. Register [here]
 
 
 # Speakers and Biographies
-
 ## Keynote
 - **Joanna Zylinska** is a writer, lecturer, artist, curator, and – according to the ImageNet Roulette’s algorithm – a ‘mediatrix’. She is Professor of New Media and Communications and Co-Head of the Department of Media, Communications and Cultural Studies at Goldsmiths, University of London. The author of many books – including The End of Man: A Feminist Counterapocalypse (University of Minnesota Press, 2018), Nonhuman Photography (MIT Press, 2017) and Minimal Ethics for the Anthropocene (Open Humanities Press, 2014) – she is also involved in more experimental and collaborative publishing projects, such as Photomediations (Open Humanities Press, 2016). Her own art practice involves playing with different kinds of image-based media.
 
@@ -42,14 +39,17 @@ The event is free and open to all, but registration is required. Register [here]
 - **Talan Memmott** is a digital writer/artist/theorist. Memmott has taught and been a researcher in digital art, digital design, electronic writing, new media studies, and digital culture at University of California Santa Cruz; University of Bergen; Blekinge Institute of Technology in Karlskrona, Sweden;  California State University Monterey Bay; the Georgia Institute of Technology; University of Colorado Boulder; and the Rhode Island School of Design. He is currently Assistant Professor of Creative Digital Media at Winona State University. Memmott holds an MFA in Literary Arts/Electronic Writing from Brown University and a PhD in Interaction Design/Digital Rhetoric and Poetics from Malmö University.
 
 
-# Our sponsors at the University of Colorado Boulder
+# Our Sponsors at the University of Colorado Boulder
 - Center for Research Data & Digital Scholarship
 - College of Media, Communication & Information (CMCI), Practice-Based Research and Digital Humanities Group 
 - Intermedia Art, Writing and Performance (IAWP)
 - TECHNE Lab
 - Research & Innovation Office
 
+# Our Organizers
+- Mark Amerika, Professor, Intermedia Art, Writing and Performance, CU Boulder
+- Melissa Cantrell, Assistant Professor and Scholarly Communications Librarian, CU Boulder
+- Nickoal Eichmann-Kalwara, Assistant Professor and Digital Scholarship Librarian, CU Boulder
 
 # Contact
-
-Questions? Email XX at XX[at]colorado.edu
+Questions? Email Mark Amerika at mark.amerika[at]colorado.edu
