@@ -3,7 +3,7 @@ With the demise of traditional gatekeepers, we are witnessing the rapid rise of 
 
 In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art.
 
-The Radical Open Access: Experiments in (Post-)Publishing Symposium will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on April 6th from 10:30am - 2pm. This event will be followed by a "Clinic for Open Source Arts," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from 2-4pm. 
+The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on **April 6th from 10:30am - 2pm.** This event will be followed by a "**Clinic for Open Source Arts**," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from 2-4pm. 
 
 Light refreshments and lunch will be provided. We look forward to seeing you there!
 
