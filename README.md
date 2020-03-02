@@ -1,7 +1,7 @@
 # Radical Open Access: Experiments in (Post-)Publishing Symposium
 With the demise of traditional gatekeepers, we are witnessing the rapid rise of alternative modes of both scholarly publishing and distribution as well as the artistic exhibition of computer generated works of art in digital environments. The rise of open access and collaborative platforms are in fact blurring the distinctions between publishing as a significant force of cultural activity in both contemporary art and leading-edge academic venues.
 
-In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art .
+In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art.
 
 The Radical Open Access: Experiments in (Post-)Publishing Symposium will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on April 6th from 10:30am - 2pm. This event will be followed by a "Clinic for Open Source Arts," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from 2-4pm. 
 
@@ -43,6 +43,7 @@ The event is free and open to all, but registration is required. Register [here]
 - Center for Research Data & Digital Scholarship
 - College of Media, Communication & Information (CMCI), Practice-Based Research and Digital Humanities Group 
 - Intermedia Art, Writing and Performance (IAWP)
+- Coventry University Centre for Post-Digital Cultures
 - TECHNE Lab
 - Research & Innovation Office
 
