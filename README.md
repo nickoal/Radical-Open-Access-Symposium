@@ -44,6 +44,7 @@ The event is free and open to all, but registration is required. Register [here]
 - College of Media, Communication & Information (CMCI), Practice-Based Research and Digital Humanities Group 
 - Intermedia Art, Writing and Performance (IAWP)
 - Coventry University Centre for Post-Digital Cultures
+- Arts & Sciences Support of Education Through Technology (ASSETT)
 - TECHNE Lab
 - Research & Innovation Office
 
