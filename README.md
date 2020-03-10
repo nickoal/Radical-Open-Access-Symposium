@@ -1,4 +1,7 @@
 # Radical Open Access: Experiments in (Post-)Publishing Symposium
+
+## NOTE: The symposium is subject to cancellation pending direction from our university administration regarding COVID-19
+
 With the demise of traditional gatekeepers, we are witnessing the rapid rise of alternative modes of both scholarly publishing and distribution as well as the artistic exhibition of computer generated works of art in digital environments. The rise of open access and collaborative platforms are in fact blurring the distinctions between publishing as a significant force of cultural activity in both contemporary art and leading-edge academic venues.
 
 In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art. This event has been organised in collaboration with the Post-Publishing programme (https://www.post-publishing.org) at the Centre for Postdigital Cultures (Coventry University, UK), and forms part of a series of symposia exploring contemporary approaches to experimental publishing.
