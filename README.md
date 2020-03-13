@@ -1,26 +1,17 @@
 # Radical Open Access: Experiments in (Post-)Publishing Symposium
 
-## NOTE: The symposium is subject to cancellation pending direction from our university administration regarding COVID-19
+## NOTE: The symposium is postponed until further notice.
 
 With the demise of traditional gatekeepers, we are witnessing the rapid rise of alternative modes of both scholarly publishing and distribution as well as the artistic exhibition of computer generated works of art in digital environments. The rise of open access and collaborative platforms are in fact blurring the distinctions between publishing as a significant force of cultural activity in both contemporary art and leading-edge academic venues.
 
 In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art. This event has been organised in collaboration with the Post-Publishing programme (https://www.post-publishing.org) at the Centre for Postdigital Cultures (Coventry University, UK), and forms part of a series of symposia exploring contemporary approaches to experimental publishing.
 
-The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on **April 6th from 10:30am - 2pm.** This event will be followed by a "**Clinic for Open Source Arts**," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from 2-4pm. 
+The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on ~~April 6th from 10:30am - 2pm.~~ This event will be followed by a "**Clinic for Open Source Arts**," taking place in the Center for Research Data and Digital Scholarship (Norlin E206) from ~~2-4pm.~~
 
 Light refreshments and lunch will be provided. We look forward to seeing you there!
 
 ## Registration
 The event is free and open to all, but registration is required. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
-
-
-# Schedule
-- 10:30-11:00    Coffee and pastries
-- 11:00-12.30    Keynote session: Radical Open Access with Joanna Zylinska, Janneke Adema and Gary Hall
-- 12:30          Catered lunch available in back of room while...
-- 12:30-1:10     Davin Heckman and Talan Memmott
-- 1:10-1:50      Danny Snelson
-- 2:00-4:00      Clinic for Open Source Arts with Chris Coleman _(Norlin E206/CRDDS)_
 
 
 # Speakers and Biographies
