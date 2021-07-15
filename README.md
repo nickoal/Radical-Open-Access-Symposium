@@ -30,8 +30,6 @@ The event is free and open to all, but registration is required. Register [here]
 
 - **Davin Heckman** writes about digital culture and electronic literature. He is on the board of the Electronic Literature Organization, Managing Director for the Consortium on Electronic Literature, and Professor of Mass Communication at Winona State University. For the past 20 years, he has been active in digital publishing, serving on the editorial boards of Rhizomes.net, Hyperrhiz, electronic book review, the Electronic Literature Directory, Digital Literary Studies, and the forthcoming Digital Review. More information on Davin can be found at: https://elmcip.net/person/davin-heckman
 
-- **Talan Memmott** is a digital writer/artist/theorist. Memmott has taught and been a researcher in digital art, digital design, electronic writing, new media studies, and digital culture at University of California Santa Cruz; University of Bergen; Blekinge Institute of Technology in Karlskrona, Sweden;  California State University Monterey Bay; the Georgia Institute of Technology; University of Colorado Boulder; and the Rhode Island School of Design. He is currently Assistant Professor of Creative Digital Media at Winona State University. Memmott holds an MFA in Literary Arts/Electronic Writing from Brown University and a PhD in Interaction Design/Digital Rhetoric and Poetics from Malmö University.
-
 
 # Our Sponsors at the University of Colorado Boulder
 - Center for Research Data & Digital Scholarship
