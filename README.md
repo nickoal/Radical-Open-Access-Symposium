@@ -6,12 +6,12 @@ With the demise of traditional gatekeepers, we are witnessing the rapid rise of 
 
 In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art. This event has been organised in collaboration with the Post-Publishing programme (https://www.post-publishing.org) at the Centre for Postdigital Cultures (Coventry University, UK), and forms part of a series of symposia exploring contemporary approaches to experimental publishing.
 
-The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will take place at the University of Colorado Boulder in the Center for British and Irish Studies in Norlin Library, on Friday, 1 October 2021. This event will be followed by a "**Clinic for Open Source Arts**." 
+The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will be a hybrid event, taking place remotely and at the University of Colorado Boulder on Friday, 1 October 2021. This event will be followed by a "**Clinic for Open Source Arts**." 
 
 Light refreshments and lunch will be provided. We look forward to seeing you there!
 
 ## Registration
-The event is free and open to all, but registration is required. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
+The event is free and open to all virtually, with in-person registration limited to 20 people. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
 
 
 # Speakers and Biographies
