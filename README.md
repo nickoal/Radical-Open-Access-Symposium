@@ -6,16 +6,24 @@ With the demise of traditional gatekeepers, we are witnessing the rapid rise of 
 
 In this context, the symposium will question the current corporatized systems of academic publishing and the commercial-driven art museum and upmarket gallery systems, as well as serve as a forum to interrogate new models of collective action for collaborating on, creating, and sharing scholarship and art. This event has been organised in collaboration with the Post-Publishing programme (https://www.post-publishing.org) at the Centre for Postdigital Cultures (Coventry University, UK), and forms part of a series of symposia exploring contemporary approaches to experimental publishing.
 
-The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will be a hybrid event, taking place remotely and at the University of Colorado Boulder on Friday, 1 October 2021. This event will be followed by a "**Clinic for Open Source Arts**." 
+The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will be a hybrid event, taking place remotely and onsite at the University of Colorado Boulder on Friday, 1 October 2021. This event will be followed by a "**Clinic for Open Source Arts**." 
 
 Light refreshments and lunch will be provided. We look forward to seeing you there!
 
 ## Registration
 The event is free and open to all virtually, with in-person registration limited to 20 people. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
 
+## Schedule (Mountain Time)
+| Time | Event | Place |
+| --- | --- | --- |
+| 9:00am | Light Breakfast | CBIS, Norlin Library |
+| 9:30am-11:15am | Keynotes | CBIS, Norlin Library|
+| 11:15am-12:15pm | Presentations | CBIS, Norlin Library|
+| 12:30-2:30pm | Lunch and Clinic for Open Source Arts | N410, Norlin Library|
+
 
 # Speakers and Biographies
-## Keynote
+## Keynotes
 - **Joanna Zylinska** is a writer, lecturer, artist, curator, and – according to the ImageNet Roulette’s algorithm – a ‘mediatrix’. She is Professor of New Media and Communications and Co-Head of the Department of Media, Communications and Cultural Studies at Goldsmiths, University of London. The author of many books – including The End of Man: A Feminist Counterapocalypse (University of Minnesota Press, 2018), Nonhuman Photography (MIT Press, 2017) and Minimal Ethics for the Anthropocene (Open Humanities Press, 2014) – she is also involved in more experimental and collaborative publishing projects, such as Photomediations (Open Humanities Press, 2016). Her own art practice involves playing with different kinds of image-based media.
 
 - **Gary Hall** is Professor of Media in the Faculty of Arts & Humanities at Coventry University, UK, where he co-directs the Centre for Postdigital Cultures, which brings together media theorists, practitioners, activists and artists. In 1999 he co-founded the critical theory journal Culture Machine, an early champion of open access in the humanities, while in 2006 he co-founded Open Humanities Press, the first open access publishing house explicitly dedicated to critical and cultural theory. Recent publications include The Inhumanist Manifesto (Techne Lab, 2017), Pirate Philosophy (MIT Press, 2016) and The Uberfication of the University (Minnesota UP, 2016). He is currently completing a monograph titled Liberalism Must Be Defeated for Joanna Zylinska’s new Media:Art:Write:Now series.
