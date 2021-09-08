@@ -46,9 +46,9 @@ The event is free and open to all virtually, with in-person registration limited
 
 
 # Our Sponsors at the University of Colorado Boulder
-- Center for Research Data & Digital Scholarship
 - College of Media, Communication & Information (CMCI), Practice-Based Research and Digital Humanities Group 
 - Intermedia Art, Writing and Performance (IAWP)
+- Center for Research Data & Digital Scholarship
 - Coventry University Centre for Post Digital Cultures
 - Arts & Sciences Support of Education Through Technology (ASSETT)
 - TECHNE Lab
