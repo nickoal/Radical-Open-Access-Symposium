@@ -14,7 +14,7 @@ Light breakfast, refreshments and lunch will be provided. We look forward to see
 The event is free and open to all virtually, with in-person registration limited to 25 people for the symposium and 15 for the COSA. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA). Confirmations with zoom information with be sent the week of the event.
 
 ## Schedule (Mountain Time)
-- 9:00 Light breakfast [CBIS, Norlin Library]
+- 9:00 Catered breakfast [CBIS, Norlin Library]
 - 9:25 Introductions
 - 9:30 Keynote: Joanna Zylinska (speaking virtually)
 - 9:55 Keynote: Gary Hall  (speaking virtually)
@@ -23,7 +23,7 @@ The event is free and open to all virtually, with in-person registration limited
 - 11:15 Presentation: Danny Nelson (speaking in person)
 - 11:35 Presentation: Davin Heckman (speaking in person)
 - 11:55 Q&A
-- 12:15 Lunch [around the corner in N410, Norlin Library]
+- 12:15 Catered Lunch [around the corner in N410, Norlin Library]
 - 12:30-2:30pm Clinic for Open Source Arts [N410, Norlin Library, speaking in person]
 
 
