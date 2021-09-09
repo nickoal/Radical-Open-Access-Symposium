@@ -16,12 +16,12 @@ The event is free and open to all virtually, with in-person registration limited
 ## Schedule (Mountain Time)
 - 9:00 Light breakfast [CBIS, Norlin Library]
 - 9:25 Introductions
-- 9:30 Keynote: Joanna Zylinska
-- 9:55 Keynote: Gary Hall 
-- 10:20 Keynote: Janneke Adema
+- 9:30 Keynote: Joanna Zylinska (speaking virtually)
+- 9:55 Keynote: Gary Hall  (speaking virtually)
+- 10:20 Keynote: Janneke Adema (speaking virtually)
 - 10:45 Q&A with keynote speakers 
-- 11:15 Presentation: Danny Nelson
-- 11:35 Presentation: Davin Heckman
+- 11:15 Presentation: Danny Nelson (in person)
+- 11:35 Presentation: Davin Heckman (in person)
 - 11:55 Q&A
 - 12:15 Lunch [around the corner in N410, Norlin Library]
 - 12:30-2:30pm Clinic for Open Source Arts [N410, Norlin Library]
