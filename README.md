@@ -11,7 +11,7 @@ The **Radical Open Access: Experiments in (Post-)Publishing Symposium** will be 
 Light breakfast, refreshments and lunch will be provided. We look forward to seeing you there!
 
 ## Registration
-The event is free and open to all virtually, with in-person registration limited to 25 people for the symposium and 15 for the COSA. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA).
+The event is free and open to all virtually, with in-person registration limited to 25 people for the symposium and 15 for the COSA. Register [here](https://forms.gle/26c1SuDt1pBXwuQWA) [(url: https://forms.gle/26c1SuDt1pBXwuQWA)](https://forms.gle/26c1SuDt1pBXwuQWA). Confirmations with zoom information with be sent the week of the event.
 
 ## Schedule (Mountain Time)
 - 9:00 Light breakfast [CBIS, Norlin Library]
