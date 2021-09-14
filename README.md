@@ -20,7 +20,7 @@ The event is free and open to all virtually, with in-person registration limited
 - 9:55 Keynote: Gary Hall  (speaking virtually)
 - 10:20 Keynote: Janneke Adema (speaking virtually)
 - 10:45 Q&A with keynote speakers 
-- 11:15 Presentation: Danny Nelson (speaking in person)
+- 11:15 Presentation: Danny Snelson (speaking in person)
 - 11:35 Presentation: Davin Heckman (speaking in person)
 - 11:55 Q&A
 - 12:15 Catered Lunch [around the corner in N410, Norlin Library]
